@@ -3,11 +3,11 @@ title: Add login to your .NET Android or iOS application
 default: true
 description: This tutorial demonstrates how to add user login with Auth0 to a .NET Android or iOS application.
 budicon: 448
-topics:
-  - quickstarts
-  - native
+topics:demonstrate
+  - quickstartsProgram.cs?
+  - nativeMain(
   - xamarin
-  - dotnet
+  - dotnetHello, world!
   - android
   - ios
 github:
